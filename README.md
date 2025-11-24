@@ -1,7 +1,7 @@
 <h1 align="center">🚀 ABOUT LOLIPOP</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/image.png" 
+  <img src="https://raw.githubusercontent.com/dirgaxnx/Upload/main/photo_1764012047707.jpg" 
        alt="Project Banner" width="600" />
 </p>
 
